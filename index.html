@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Yazılım Gündem</title>
+<style>
+:root{--bg:#0f1115;--card:#181b22;--fg:#e8eaf0;--mut:#8b93a7;--acc:#5b9dff}
+@media(prefers-color-scheme:light){:root{--bg:#f5f6f8;--card:#fff;--fg:#1a1d24;--mut:#666e80;--acc:#1b63d6}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,sans-serif}
+header,main{max-width:900px;margin:auto;padding:16px}
+h1{margin:8px 0 0}#upd{color:var(--mut);font-size:14px}
+nav{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0}
+button,input{font:inherit;border-radius:8px;border:1px solid var(--mut);background:var(--card);color:var(--fg);padding:6px 12px}
+button.on{background:var(--acc);color:#fff;border-color:var(--acc)}
+input{flex:1;min-width:160px}
+article{background:var(--card);border-radius:10px;padding:12px 16px;margin-bottom:10px}
+article a.t{color:var(--fg);font-weight:600;text-decoration:none}article a.t:hover{color:var(--acc)}
+.m{color:var(--mut);font-size:13px;margin-top:4px}.m a{color:var(--mut)}
+p{margin:6px 0 0;color:var(--mut);font-size:14px}
+</style>
+</head>
+<body>
+<header><h1>Yazılım Gündem</h1><div id="upd">Yükleniyor…</div>
+<nav id="tabs"></nav><input id="q" placeholder="Ara…"></header>
+<main id="list"></main>
+<script>
+let data,tab="Tümü";
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const safe=u=>/^https?:\/\//.test(u)?esc(u):"#";
+function render(){
+  const q=$("#q").value.toLowerCase();
+  let items=Object.entries(data.sources).flatMap(([s,a])=>a.map(i=>({...i,s})));
+  if(tab!=="Tümü")items=items.filter(i=>i.s===tab);
+  items=items.filter(i=>(i.title+" "+(i.summary||"")).toLowerCase().includes(q))
+    .sort((a,b)=>new Date(b.date)-new Date(a.date));
+  $("#list").innerHTML=items.map(i=>`<article><a class="t" href="${safe(i.url)}" target="_blank" rel="noopener noreferrer">${esc(i.title)}</a>
+  ${i.summary?`<p>${esc(i.summary)}</p>`:""}
+  <div class="m">${esc(i.s)} · ▲ ${i.score??0} · ${new Date(i.date).toLocaleDateString("tr-TR")}${i.note?" · "+esc(i.note):""}${i.discuss?` · <a href="${safe(i.discuss)}" target="_blank" rel="noopener noreferrer">tartışma</a>`:""}</div></article>`).join("")||"<p>Sonuç yok.</p>";
+}
+fetch("news.json").then(r=>r.json()).then(d=>{
+  data=d;$("#upd").textContent="Son güncelleme: "+new Date(d.updated).toLocaleString("tr-TR");
+  $("#tabs").innerHTML=["Tümü",...Object.keys(d.sources)].map(n=>`<button class="${n===tab?"on":""}">${n}</button>`).join("");
+  $("#tabs").onclick=e=>{if(e.target.tagName!=="BUTTON")return;tab=e.target.textContent;
+    [...$("#tabs").children].forEach(b=>b.classList.toggle("on",b.textContent===tab));render()};
+  $("#q").oninput=render;render();
+}).catch(()=>$("#upd").textContent="Veri yüklenemedi.");
+</script>
+</body>
+</html>
