@@ -1,126 +1,158 @@
 {
- "updated": "2026-10-17T22:07:12.575Z",
+ "updated": "2026-10-18T00:34:11.685Z",
  "sources": {
   "Hacker News": [
    {
     "title": "Bleached corals thrive within days when touching healthy neighbour",
     "url": "https://www.nature.com/articles/d41586-026-03266-x",
-    "score": 206,
+    "score": 287,
     "date": "2026-10-16T23:38:27.000Z",
-    "note": "34 yorum",
+    "note": "61 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50126253"
    },
    {
     "title": "Dam removals are bringing fish back across the northeastern United States",
     "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-    "score": 106,
+    "score": 171,
     "date": "2026-10-16T23:47:31.000Z",
-    "note": "27 yorum",
+    "note": "48 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50126312"
    },
    {
     "title": "Furifont, a Japanese font that shows furigana",
     "url": "https://furifont.antfu.me/",
-    "score": 202,
+    "score": 242,
     "date": "2026-10-15T08:48:30.000Z",
-    "note": "43 yorum",
+    "note": "51 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50100994"
-   },
-   {
-    "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-    "url": "https://github.com/antirez/c64-hw-simulator",
-    "score": 108,
-    "date": "2026-10-15T07:18:14.000Z",
-    "note": "18 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50100366"
-   },
-   {
-    "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
-    "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-    "score": 34,
-    "date": "2026-10-17T18:45:07.000Z",
-    "note": "34 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50133830"
    },
    {
     "title": "DeepSeek-v4.1-Flash-1017",
     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-    "score": 614,
+    "score": 673,
     "date": "2026-10-17T08:21:25.000Z",
-    "note": "535 yorum",
+    "note": "573 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50129045"
-   },
-   {
-    "title": "Making chicken transparent using Dorito dust",
-    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-    "score": 228,
-    "date": "2026-10-17T13:55:28.000Z",
-    "note": "62 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50131213"
    },
    {
     "title": "Pele – Mermaid diagrams as themeable SVG",
     "url": "https://pele.run/",
-    "score": 131,
+    "score": 211,
     "date": "2026-10-17T15:55:09.000Z",
-    "note": "15 yorum",
+    "note": "24 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50132193"
    },
    {
-    "title": "Pattern Matching Beats Narrative Reasoning",
-    "url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
-    "score": 30,
-    "date": "2026-10-17T18:34:13.000Z",
-    "note": "15 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50133736"
+    "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+    "url": "https://github.com/antirez/c64-hw-simulator",
+    "score": 135,
+    "date": "2026-10-15T07:18:14.000Z",
+    "note": "23 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50100366"
+   },
+   {
+    "title": "Making chicken transparent using Dorito dust",
+    "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+    "score": 246,
+    "date": "2026-10-17T13:55:28.000Z",
+    "note": "64 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50131213"
+   },
+   {
+    "title": "Types of types: Haskell's Kind system",
+    "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
+    "score": 31,
+    "date": "2026-10-14T17:00:31.000Z",
+    "note": "21 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50090927"
    },
    {
     "title": "Gold is now the top U.S. export",
     "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-    "score": 149,
+    "score": 212,
     "date": "2026-10-17T17:06:07.000Z",
-    "note": "85 yorum",
+    "note": "114 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50132870"
    },
    {
-    "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
-    "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
-    "score": 46,
-    "date": "2026-10-17T20:07:33.000Z",
-    "note": "43 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50134617"
-   },
-   {
-    "title": "Laser Fault Injection on a Budget: RP2350 Edition",
-    "url": "https://courk.cc/rp2350-challenge-laser",
-    "score": 28,
-    "date": "2026-10-15T10:24:16.000Z",
-    "note": "4 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50101649"
+    "title": "Codex Desktop continuously generates Crashpad pending dumps",
+    "url": "https://github.com/openai/codex/issues/25921",
+    "score": 59,
+    "date": "2026-10-17T17:45:08.000Z",
+    "note": "25 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50133231"
    },
    {
     "title": "Source code of the Estonian online voting system",
     "url": "https://github.com/valimised/ivxv",
-    "score": 114,
+    "score": 151,
     "date": "2026-10-17T03:18:39.000Z",
-    "note": "98 yorum",
+    "note": "132 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50127586"
-   },
-   {
-    "title": "Solar surpasses nuclear power globally for first time",
-    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-    "score": 423,
-    "date": "2026-10-17T14:01:01.000Z",
-    "note": "245 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50131256"
    },
    {
     "title": "Show HN: High-quality duck audio synthesizer",
     "url": "https://celphase.github.io/duck-pond/",
-    "score": 55,
+    "score": 76,
     "date": "2026-10-17T13:28:46.000Z",
-    "note": "15 yorum",
+    "note": "23 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50131006"
+   },
+   {
+    "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+    "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+    "score": 74,
+    "date": "2026-10-17T20:07:33.000Z",
+    "note": "73 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50134617"
+   },
+   {
+    "title": "You could have invented transformers from memory",
+    "url": "https://alexwang.ai/posts/associative-memory/",
+    "score": 496,
+    "date": "2026-10-16T19:01:17.000Z",
+    "note": "116 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50122878"
+   },
+   {
+    "title": "Solar surpasses nuclear power globally for first time",
+    "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+    "score": 460,
+    "date": "2026-10-17T14:01:01.000Z",
+    "note": "301 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50131256"
+   },
+   {
+    "title": "An ESPN producer who quit because of sports gambling",
+    "url": "https://www.cjr.org/the-interview/nicole-noren-espn-producer-quit-protest-sports-betting-gambling-addiction-draftkings-im-not-going-to-have-blood-on-my-hands.php",
+    "score": 131,
+    "date": "2026-10-14T18:36:59.000Z",
+    "note": "81 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50092722"
+   },
+   {
+    "title": "Laser Fault Injection on a Budget: RP2350 Edition",
+    "url": "https://courk.cc/rp2350-challenge-laser",
+    "score": 38,
+    "date": "2026-10-15T10:24:16.000Z",
+    "note": "8 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50101649"
+   },
+   {
+    "title": "I Became a Citizen of Japan",
+    "url": "https://www.derekwessman.com/blog-1/natural",
+    "score": 135,
+    "date": "2026-10-17T17:36:17.000Z",
+    "note": "56 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50133150"
+   },
+   {
+    "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
+    "url": "https://github.com/Kapendev/parin",
+    "score": 42,
+    "date": "2026-10-16T13:22:49.000Z",
+    "note": "7 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50118098"
    },
    {
     "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
@@ -131,123 +163,91 @@
     "discuss": "https://news.ycombinator.com/item?id=50132839"
    },
    {
-    "title": "OpenCode Hacked: User credentials leaked",
-    "url": "https://twitter.com/opencode/status/2111516673953935833",
-    "score": 549,
-    "date": "2026-10-17T18:01:41.000Z",
-    "note": "91 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50133401"
-   },
-   {
-    "title": "You could have invented transformers from memory",
-    "url": "https://alexwang.ai/posts/associative-memory/",
-    "score": 463,
-    "date": "2026-10-16T19:01:17.000Z",
-    "note": "107 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50122878"
-   },
-   {
-    "title": "Codex is EATING my Mac's disk space",
-    "url": "https://github.com/openai/codex/issues/25921",
-    "score": 28,
-    "date": "2026-10-17T17:45:08.000Z",
-    "note": "14 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50133231"
-   },
-   {
-    "title": "Vintage Cassettes: 1963-2010",
-    "url": "http://vintagecassettes.com/",
-    "score": 36,
-    "date": "2026-10-14T20:41:36.000Z",
-    "note": "4 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50094887"
-   },
-   {
-    "title": "Rendering pretty sky in Around The World game",
-    "url": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
-    "score": 114,
-    "date": "2026-10-16T15:06:43.000Z",
-    "note": "7 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50119315"
-   },
-   {
-    "title": "Types of types: Haskell's Kind system",
-    "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
-    "score": 3,
-    "date": "2026-10-14T17:00:31.000Z",
-    "note": "1 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50090927"
-   },
-   {
-    "title": "I Became a Citizen of Japan",
-    "url": "https://www.derekwessman.com/blog-1/natural",
-    "score": 95,
-    "date": "2026-10-17T17:36:17.000Z",
-    "note": "29 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50133150"
-   },
-   {
     "title": "A skeptic's first contact with Kubernetes (2024)",
     "url": "https://blog.davidv.dev/posts/first-contact-with-k8s/",
-    "score": 60,
+    "score": 78,
     "date": "2026-10-17T03:16:25.000Z",
-    "note": "26 yorum",
+    "note": "39 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50127572"
-   },
-   {
-    "title": "Show HN: Parin – A 2D game engine between raylib and Godot, written in Dlang",
-    "url": "https://github.com/Kapendev/parin",
-    "score": 32,
-    "date": "2026-10-16T13:22:49.000Z",
-    "note": "4 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50118098"
-   },
-   {
-    "title": "Development statistics for the 7.2 kernel",
-    "url": "https://lwn.net/Articles/1088776/",
-    "score": 112,
-    "date": "2026-10-17T17:14:12.000Z",
-    "note": "91 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50132950"
    },
    {
     "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
     "url": "https://github.com/mikroverk/esp32sim",
-    "score": 97,
+    "score": 115,
     "date": "2026-10-17T13:51:08.000Z",
     "note": "11 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50131189"
    },
    {
+    "title": "Rendering pretty sky in Around The World game",
+    "url": "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
+    "score": 121,
+    "date": "2026-10-16T15:06:43.000Z",
+    "note": "9 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50119315"
+   },
+   {
+    "title": "Vintage Cassettes: 1963-2010",
+    "url": "http://vintagecassettes.com/",
+    "score": 47,
+    "date": "2026-10-14T20:41:36.000Z",
+    "note": "8 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50094887"
+   },
+   {
+    "title": "Each step of decoding a PNG (2022)",
+    "url": "https://iter.ca/post/png/",
+    "score": 5,
+    "date": "2026-10-14T18:53:00.000Z",
+    "note": "1 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50093006"
+   },
+   {
+    "title": "OpenCode Hacked: User credentials leaked",
+    "url": "https://twitter.com/opencode/status/2111516673953935833",
+    "score": 715,
+    "date": "2026-10-17T18:01:41.000Z",
+    "note": "121 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50133401"
+   },
+   {
+    "title": "JDK 28",
+    "url": "https://openjdk.org/projects/jdk/28/",
+    "score": 40,
+    "date": "2026-10-17T21:37:07.000Z",
+    "note": "18 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50135379"
+   },
+   {
     "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
     "url": "https://llmspeed.dev/",
-    "score": 226,
+    "score": 243,
     "date": "2026-10-17T04:36:53.000Z",
-    "note": "75 yorum",
+    "note": "77 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50127979"
    },
    {
     "title": "The future of programming (1982)",
     "url": "https://dl.acm.org/doi/10.1145/358453.358459",
-    "score": 41,
+    "score": 53,
     "date": "2026-10-17T11:20:52.000Z",
-    "note": "9 yorum",
+    "note": "13 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50130079"
    },
    {
-    "title": "Show HN: Things to Do API",
-    "url": "https://thingstodoapi.com/",
-    "score": 26,
-    "date": "2026-10-16T23:58:34.000Z",
-    "note": "16 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50126384"
+    "title": "Microsoft and CMU team up to train early career software engineers",
+    "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+    "score": 56,
+    "date": "2026-10-17T18:45:07.000Z",
+    "note": "66 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50133830"
    }
   ],
   "DEV.to": [
    {
     "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
     "url": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-    "score": 164,
+    "score": 167,
     "date": "2026-10-14T07:05:48Z",
     "note": "ai, react, javascript",
     "summary": "Are AI models running directly in the browser finally good enough to use in production? Let's find..."
@@ -263,7 +263,7 @@
    {
     "title": "AI Fatigue? Yea I know.",
     "url": "https://dev.to/francistrdev/ai-fatigue-yea-i-know-f9",
-    "score": 149,
+    "score": 150,
     "date": "2026-10-13T14:57:34Z",
     "note": "discuss, community, ai",
     "summary": "I don't know how to start this off really haha. Though to be fair, everyone is talking about AI..."
@@ -279,7 +279,7 @@
    {
     "title": "Dev Opportunity Radar #21: $500K Y Combinator Funding, Bolt Builders Week, and AI Safety Research Residency",
     "url": "https://dev.to/devengers/dev-opportunity-radar-21-500k-y-combinator-funding-bolt-builders-week-and-ai-safety-research-12b8",
-    "score": 73,
+    "score": 74,
     "date": "2026-10-16T17:40:16Z",
     "note": "discuss, community, opportunities",
     "summary": "TL;DR  Welcome back to Dev Opportunity Radar!  This is a weekly series where I share opportunities,..."
@@ -287,7 +287,7 @@
    {
     "title": "💅 Keyboard Makeover",
     "url": "https://dev.to/annavi11arrea1/keyboard-makeover-i6a",
-    "score": 82,
+    "score": 83,
     "date": "2026-10-11T02:25:47Z",
     "note": "mentalhealth, craft",
     "summary": "I have had this interesting piece of psychedelic looking vinyl for some time. Today I finally found a..."
@@ -383,7 +383,7 @@
    {
     "title": "I Vibe-Coded My Way Out of Angular Upgrades",
     "url": "https://dev.to/gramli/i-vibe-coded-my-way-out-of-angular-upgrades-4fkh",
-    "score": 58,
+    "score": 59,
     "date": "2026-10-15T07:10:18Z",
     "note": "ai, vibecoding, angular",
     "summary": "Do you also hate upgrading Angular versions? Because I do. I maintain a few open-source projects, and..."
@@ -683,39 +683,23 @@
    {
     "title": "jhaizhou-ops/d2r-mobile",
     "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-    "score": 3702,
+    "score": 3707,
     "date": "2026-10-12T08:41:19Z",
     "note": "C",
     "summary": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层"
    },
    {
-    "title": "onehumanbeing/esp32-iphone-agent",
-    "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-    "score": 2986,
-    "date": "2026-10-11T19:10:25Z",
-    "note": "C",
-    "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak."
-   },
-   {
     "title": "Arekejoker/qwen21-nsfw-pose-skill",
     "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-    "score": 2629,
+    "score": 2636,
     "date": "2026-10-13T03:09:42Z",
     "note": "Python",
     "summary": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw"
    },
    {
-    "title": "liseami/CCBaga",
-    "url": "https://github.com/liseami/CCBaga",
-    "score": 2566,
-    "date": "2026-10-11T03:47:06Z",
-    "note": "Rust",
-    "summary": null
-   },
-   {
     "title": "HeyPuter/everything",
     "url": "https://github.com/HeyPuter/everything",
-    "score": 2031,
+    "score": 2052,
     "date": "2026-10-13T16:18:22Z",
     "note": "JavaScript",
     "summary": "We're rebuilding and open-sourcing the world’s software from scratch."
@@ -723,7 +707,7 @@
    {
     "title": "ahwootech/BRUTAL",
     "url": "https://github.com/ahwootech/BRUTAL",
-    "score": 1781,
+    "score": 1790,
     "date": "2026-10-14T19:33:56Z",
     "note": "C#",
     "summary": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine."
@@ -731,7 +715,7 @@
    {
     "title": "deeplethe/solid-glass",
     "url": "https://github.com/deeplethe/solid-glass",
-    "score": 1687,
+    "score": 1706,
     "date": "2026-10-12T09:19:02Z",
     "note": "TypeScript",
     "summary": "A design system for AI applications. Material, physical, tactile, technical."
@@ -739,7 +723,7 @@
    {
     "title": "chenglou/handwired",
     "url": "https://github.com/chenglou/handwired",
-    "score": 1672,
+    "score": 1676,
     "date": "2026-10-15T02:15:09Z",
     "note": "TypeScript",
     "summary": "Turn your regular JavaScript code into a neural net."
@@ -747,7 +731,7 @@
    {
     "title": "Supermedo/uncharted_pc",
     "url": "https://github.com/Supermedo/uncharted_pc",
-    "score": 1241,
+    "score": 1257,
     "date": "2026-10-15T00:17:23Z",
     "note": "C++",
     "summary": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo"
@@ -755,7 +739,7 @@
    {
     "title": "feder-cr/git-ai",
     "url": "https://github.com/feder-cr/git-ai",
-    "score": 1131,
+    "score": 1136,
     "date": "2026-10-15T13:12:02Z",
     "note": "Go",
     "summary": "Git designed for AI agents."
@@ -763,23 +747,15 @@
    {
     "title": "Caho1/open-claude-ui",
     "url": "https://github.com/Caho1/open-claude-ui",
-    "score": 1130,
+    "score": 1135,
     "date": "2026-10-14T14:05:05Z",
     "note": "TypeScript",
     "summary": "基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析手册。"
    },
    {
-    "title": "chenwei810/Semiconductor_Manufacturing_Introduction",
-    "url": "https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction",
-    "score": 1084,
-    "date": "2026-10-11T02:01:01Z",
-    "note": "Python",
-    "summary": "Introduction to Semiconductor Manufacturing"
-   },
-   {
     "title": "zhuyansen/new-term-radar",
     "url": "https://github.com/zhuyansen/new-term-radar",
-    "score": 1079,
+    "score": 1080,
     "date": "2026-10-12T07:11:01Z",
     "note": "Python",
     "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them."
@@ -787,7 +763,7 @@
    {
     "title": "AjncSystem/ShadowOfTheColossus-PC",
     "url": "https://github.com/AjncSystem/ShadowOfTheColossus-PC",
-    "score": 967,
+    "score": 982,
     "date": "2026-10-12T13:11:53Z",
     "note": "C++",
     "summary": "Native Windows port of Shadow of the Colossus (PS4, CUSA08809) - bring your own game dump. Port nativo para PC."
@@ -795,26 +771,10 @@
    {
     "title": "outcrawlai/scout",
     "url": "https://github.com/outcrawlai/scout",
-    "score": 934,
+    "score": 939,
     "date": "2026-10-13T09:18:55Z",
     "note": "TypeScript",
     "summary": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository."
-   },
-   {
-    "title": "jwuthri-cloud/Tracely-ai",
-    "url": "https://github.com/jwuthri-cloud/Tracely-ai",
-    "score": 923,
-    "date": "2026-10-11T15:38:03Z",
-    "note": "Python",
-    "summary": null
-   },
-   {
-    "title": "h0m3us3r/w1700k-sdr",
-    "url": "https://github.com/h0m3us3r/w1700k-sdr",
-    "score": 822,
-    "date": "2026-10-11T23:21:22Z",
-    "note": "C",
-    "summary": null
    },
    {
     "title": "CoolkHz/gptibo",
@@ -827,26 +787,34 @@
    {
     "title": "rohit267/net-merge",
     "url": "https://github.com/rohit267/net-merge",
-    "score": 772,
+    "score": 792,
     "date": "2026-10-12T19:28:45Z",
     "note": "Go",
     "summary": "Use all your network adapters at once on Windows/Linux/Mac: per-connection load balancing over Wi-Fi, Ethernet and phone/USB tethers (TUN + Wintun)"
    },
    {
-    "title": "Zfinix/eleven",
-    "url": "https://github.com/Zfinix/eleven",
-    "score": 672,
-    "date": "2026-10-13T13:47:31Z",
-    "note": "TypeScript",
-    "summary": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you."
+    "title": "xscreensaver-official/xscreensaver",
+    "url": "https://github.com/xscreensaver-official/xscreensaver",
+    "score": 705,
+    "date": "2026-10-16T16:24:44Z",
+    "note": "",
+    "summary": "There is no official XScreenSaver GitHub repository."
    },
    {
     "title": "Leonxlnx/earshot",
     "url": "https://github.com/Leonxlnx/earshot",
-    "score": 672,
+    "score": 681,
     "date": "2026-10-15T06:52:46Z",
     "note": "Python",
     "summary": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source."
+   },
+   {
+    "title": "Zfinix/eleven",
+    "url": "https://github.com/Zfinix/eleven",
+    "score": 673,
+    "date": "2026-10-13T13:47:31Z",
+    "note": "TypeScript",
+    "summary": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you."
    },
    {
     "title": "threerocks/sweety-handdraw-video",
@@ -857,28 +825,60 @@
     "summary": "从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。"
    },
    {
-    "title": "xscreensaver-official/xscreensaver",
-    "url": "https://github.com/xscreensaver-official/xscreensaver",
-    "score": 631,
-    "date": "2026-10-16T16:24:44Z",
-    "note": "",
-    "summary": "There is no official XScreenSaver GitHub repository."
-   },
-   {
     "title": "MyLuxy/overdrive",
     "url": "https://github.com/MyLuxy/overdrive",
-    "score": 628,
+    "score": 643,
     "date": "2026-10-14T00:07:08Z",
     "note": "C++",
     "summary": "Overdrive, a PS5 homebrew game store with 1,800+ games."
    },
    {
+    "title": "anujasid/blender-ai-mcp-addon",
+    "url": "https://github.com/anujasid/blender-ai-mcp-addon",
+    "score": 619,
+    "date": "2026-10-15T22:30:47Z",
+    "note": "Python",
+    "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, bpy Python scripting, MCP integration."
+   },
+   {
     "title": "overdriveps5/overdrive-releases",
     "url": "https://github.com/overdriveps5/overdrive-releases",
-    "score": 607,
+    "score": 609,
     "date": "2026-10-12T19:35:03Z",
     "note": "",
     "summary": "Overdrive releases for jailbroken PS5"
+   },
+   {
+    "title": "datalab-to/indra",
+    "url": "https://github.com/datalab-to/indra",
+    "score": 583,
+    "date": "2026-10-13T11:07:11Z",
+    "note": "Python",
+    "summary": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown"
+   },
+   {
+    "title": "Tencent-Hunyuan/Hy-Memory",
+    "url": "https://github.com/Tencent-Hunyuan/Hy-Memory",
+    "score": 569,
+    "date": "2026-10-15T13:06:56Z",
+    "note": "Python",
+    "summary": null
+   },
+   {
+    "title": "0xProbabillity/house-control",
+    "url": "https://github.com/0xProbabillity/house-control",
+    "score": 557,
+    "date": "2026-10-14T12:32:21Z",
+    "note": "Swift",
+    "summary": "Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs via Smart Life, Home Assistant, Philips Hue and Apple Home."
+   },
+   {
+    "title": "yeyuxin777/baoyan-agent-benchmark",
+    "url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
+    "score": 504,
+    "date": "2026-10-12T09:15:11Z",
+    "note": "Python",
+    "summary": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning."
    }
   ],
   "Hugging Face": [
