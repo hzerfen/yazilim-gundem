@@ -1,230 +1,238 @@
 {
- "updated": "2026-11-18T19:19:34.163Z",
+ "updated": "2026-11-19T01:37:44.091Z",
  "sources": {
   "Hacker News": [
    {
-    "title": "Unauthenticated remote code execution in Nginx (CVE-2026-123633/CVE-2026-123007)",
+    "title": "Gemini 4 Neon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "score": 431,
+    "date": "2026-11-18T21:34:07.000Z",
+    "note": "408 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50552424"
+   },
+   {
+    "title": "Unauthenticated remote code execution in Nginx",
     "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-    "score": 556,
+    "score": 1135,
     "date": "2026-11-18T15:19:55.000Z",
-    "note": "192 yorum",
+    "note": "508 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50547374"
+   },
+   {
+    "title": "Multiple vulnerabilities in Regexp and String case conversion",
+    "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+    "score": 59,
+    "date": "2026-11-18T23:52:50.000Z",
+    "note": "10 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50554038"
+   },
+   {
+    "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+    "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+    "score": 46,
+    "date": "2026-11-19T00:29:45.000Z",
+    "note": "13 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50554374"
    },
    {
     "title": "Seven new models at scalable price-performance",
     "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-    "score": 256,
+    "score": 447,
     "date": "2026-11-18T16:08:24.000Z",
-    "note": "166 yorum",
+    "note": "311 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50548021"
    },
    {
     "title": "Inside Deutsche Bank",
     "url": "https://www.inside-db.com/",
-    "score": 322,
+    "score": 561,
     "date": "2026-11-18T15:38:33.000Z",
-    "note": "117 yorum",
+    "note": "190 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50547620"
    },
    {
-    "title": "Genie 4 is now available",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-    "score": 28,
-    "date": "2026-11-18T18:49:51.000Z",
-    "note": "6 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50550415"
-   },
-   {
-    "title": "DNS resolvers are the wrong place to fight piracy",
-    "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
-    "score": 420,
-    "date": "2026-11-18T13:18:02.000Z",
-    "note": "126 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50545958"
+    "title": "LLM assisted reverse engineering",
+    "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+    "score": 56,
+    "date": "2026-11-18T22:29:13.000Z",
+    "note": "11 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50553225"
    },
    {
     "title": "AI agents ask better questions than KPMG accountants in audit trial",
     "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-    "score": 131,
+    "score": 353,
     "date": "2026-11-18T15:49:34.000Z",
-    "note": "64 yorum",
+    "note": "160 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50547777"
+   },
+   {
+    "title": "DNS resolvers are the wrong place to fight piracy",
+    "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+    "score": 598,
+    "date": "2026-11-18T13:18:02.000Z",
+    "note": "223 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50545958"
+   },
+   {
+    "title": "DaisyRose-27B",
+    "url": "https://www.radixark.com/blog/daisyrose-27b",
+    "score": 136,
+    "date": "2026-11-18T19:39:16.000Z",
+    "note": "39 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50551046"
+   },
+   {
+    "title": "Fable: Written, painted and directed by Claude Fable 5.2",
+    "url": "https://claudia.gallery/fable/",
+    "score": 23,
+    "date": "2026-11-19T00:18:18.000Z",
+    "note": "18 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50554269"
+   },
+   {
+    "title": "Anthropic prices initial public offering",
+    "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+    "score": 38,
+    "date": "2026-11-18T23:30:09.000Z",
+    "note": "15 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50553843"
+   },
+   {
+    "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+    "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
+    "score": 35,
+    "date": "2026-11-16T23:47:26.000Z",
+    "note": "16 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50525260"
+   },
+   {
+    "title": "Advancing chip design with OpenAI models",
+    "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+    "score": 161,
+    "date": "2026-11-18T17:45:47.000Z",
+    "note": "99 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50549493"
+   },
+   {
+    "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
+    "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+    "score": 43,
+    "date": "2026-11-15T20:30:42.000Z",
+    "note": "8 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50510385"
+   },
+   {
+    "title": "We need smart people who give a shit",
+    "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+    "score": 197,
+    "date": "2026-11-18T23:53:49.000Z",
+    "note": "107 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50554045"
+   },
+   {
+    "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+    "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+    "score": 236,
+    "date": "2026-11-18T14:43:52.000Z",
+    "note": "171 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50546914"
+   },
+   {
+    "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+    "url": "https://exitpath-ruddy.vercel.app/",
+    "score": 166,
+    "date": "2026-11-18T16:04:43.000Z",
+    "note": "47 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50547980"
+   },
+   {
+    "title": "Show HN: Open-source, real-time object tracking for live video feeds",
+    "url": "https://github.com/aryamandarda/tamserve",
+    "score": 43,
+    "date": "2026-11-16T21:14:39.000Z",
+    "note": "2 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50523377"
+   },
+   {
+    "title": "A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover",
+    "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+    "score": 29,
+    "date": "2026-11-16T22:19:31.000Z",
+    "note": "2 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50524227"
+   },
+   {
+    "title": "Software companies are trying to kill home computing?",
+    "url": "https://lateblt.livejournal.com/526188.html",
+    "score": 99,
+    "date": "2026-11-18T23:49:18.000Z",
+    "note": "72 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50554010"
+   },
+   {
+    "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+    "url": "https://rshekhar.com/voyager/",
+    "score": 148,
+    "date": "2026-11-18T16:18:51.000Z",
+    "note": "34 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50548161"
+   },
+   {
+    "title": "Palo Alto Networks to Acquire Applied Compute for $4.5B",
+    "url": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-acquire-applied-compute-bringing-secure-open",
+    "score": 7,
+    "date": "2026-11-18T23:49:13.000Z",
+    "note": "0 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50554009"
+   },
+   {
+    "title": "GTA6-like as a 942Kb UEFI bootable image",
+    "url": "https://github.com/eklavya-raj/gta6-uefi",
+    "score": 40,
+    "date": "2026-11-18T22:26:48.000Z",
+    "note": "36 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50553192"
+   },
+   {
+    "title": "Genie 4 is now available",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+    "score": 186,
+    "date": "2026-11-18T18:49:51.000Z",
+    "note": "144 yorum",
+    "discuss": "https://news.ycombinator.com/item?id=50550415"
    },
    {
     "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
     "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
-    "score": 134,
+    "score": 174,
     "date": "2026-11-18T16:06:21.000Z",
-    "note": "80 yorum",
+    "note": "115 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50548004"
    },
    {
     "title": "The Magic of Partial Evaluation",
     "url": "https://jimmyhmiller.com/magic-of-partial-evaluation",
-    "score": 17,
+    "score": 98,
     "date": "2026-11-18T18:29:03.000Z",
-    "note": "0 yorum",
+    "note": "24 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50550096"
-   },
-   {
-    "title": "Advancing chip design with OpenAI models",
-    "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-    "score": 33,
-    "date": "2026-11-18T17:45:47.000Z",
-    "note": "11 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50549493"
-   },
-   {
-    "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
-    "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
-    "score": 170,
-    "date": "2026-11-18T14:43:52.000Z",
-    "note": "122 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50546914"
-   },
-   {
-    "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
-    "url": "https://rshekhar.com/voyager/",
-    "score": 73,
-    "date": "2026-11-18T16:18:51.000Z",
-    "note": "17 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50548161"
-   },
-   {
-    "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
-    "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
-    "score": 104,
-    "date": "2026-11-18T15:35:44.000Z",
-    "note": "53 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50547583"
-   },
-   {
-    "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
-    "url": "https://exitpath-ruddy.vercel.app/",
-    "score": 65,
-    "date": "2026-11-18T16:04:43.000Z",
-    "note": "10 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50547980"
-   },
-   {
-    "title": "Scottish HTTP Codes",
-    "url": "https://underwood.network/http/scots.html",
-    "score": 15,
-    "date": "2026-11-18T18:26:19.000Z",
-    "note": "0 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50550062"
    },
    {
     "title": "The x86 CPU: From 4004 to 486",
     "url": "https://pikuma.com/blog/history-of-x86-4004-to-486",
-    "score": 88,
+    "score": 145,
     "date": "2026-11-18T14:47:53.000Z",
-    "note": "20 yorum",
+    "note": "46 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50546967"
-   },
-   {
-    "title": "NGINX2Root by Xint – From Nginx visitor to root of the server host",
-    "url": "https://nginx2root.com/",
-    "score": 70,
-    "date": "2026-11-18T15:24:17.000Z",
-    "note": "13 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50547423"
-   },
-   {
-    "title": "Lakegres: Vector search on existing Open/Hudi/Iceberg tables",
-    "url": "https://www.onehouse.ai/blog/lakegres-vector-search-on-open-table-formats",
-    "score": 24,
-    "date": "2026-11-18T17:41:48.000Z",
-    "note": "5 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50549438"
    },
    {
     "title": "CrossPoint Reader",
     "url": "https://crosspointreader.com",
-    "score": 29,
+    "score": 105,
     "date": "2026-11-18T17:14:31.000Z",
-    "note": "11 yorum",
+    "note": "56 yorum",
     "discuss": "https://news.ycombinator.com/item?id=50548991"
-   },
-   {
-    "title": "Evidence (YC S21) Is Hiring",
-    "url": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead",
-    "score": 1,
-    "date": "2026-11-18T12:00:16.000Z",
-    "note": "0 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50545238"
-   },
-   {
-    "title": "A Primer on Fourier Series",
-    "url": "https://arxiv.org/abs/2510.18203",
-    "score": 68,
-    "date": "2026-11-18T14:44:33.000Z",
-    "note": "13 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50546922"
-   },
-   {
-    "title": "Energy-Based Reasoners: 385x more efficient inference",
-    "url": "https://energy-based-reasoners.github.io/",
-    "score": 267,
-    "date": "2026-11-18T09:29:32.000Z",
-    "note": "41 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50543989"
-   },
-   {
-    "title": "Show HN: Nobody blocks a keyboard – Rooted Android as a physical USB Deck",
-    "url": "https://github.com/mr-anjaneyam/Emittr",
-    "score": 10,
-    "date": "2026-11-16T14:18:15.000Z",
-    "note": "12 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50517840"
-   },
-   {
-    "title": "SuperEMeans: Making e-means 3× faster",
-    "url": "https://www.lkuffo.com/superemeans/",
-    "score": 25,
-    "date": "2026-11-18T16:09:50.000Z",
-    "note": "0 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50548038"
-   },
-   {
-    "title": "RFC 2675: IPv6 Jumbograms",
-    "url": "https://www.rfc-editor.org/info/rfc2675/",
-    "score": 20,
-    "date": "2026-11-18T16:22:23.000Z",
-    "note": "15 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50548214"
-   },
-   {
-    "title": "Show HN: Type Fighter 2",
-    "url": "https://typefighter2.com/",
-    "score": 98,
-    "date": "2026-11-18T11:11:53.000Z",
-    "note": "46 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50544821"
-   },
-   {
-    "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
-    "url": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
-    "score": 37,
-    "date": "2026-11-18T15:09:16.000Z",
-    "note": "7 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50547236"
-   },
-   {
-    "title": "Poland says it thwarted false flag operation near border with Kaliningrad",
-    "url": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
-    "score": 237,
-    "date": "2026-11-18T15:18:30.000Z",
-    "note": "76 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50547344"
-   },
-   {
-    "title": "New FreeBSD Pkgbase(8) Tool",
-    "url": "https://vermaden.wordpress.com/2026/11/10/freebsd-pkgbase-update-tool/",
-    "score": 33,
-    "date": "2026-11-15T16:46:13.000Z",
-    "note": "3 yorum",
-    "discuss": "https://news.ycombinator.com/item?id=50508356"
    }
   ],
   "DEV.to": [
@@ -245,12 +253,28 @@
     "summary": "What exactly is MCP? Is it some mysterious technology that requires secret knowledge to implement?..."
    },
    {
+    "title": "The CodeNewbie Podcast is Back for Season 28!",
+    "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484",
+    "score": 60,
+    "date": "2026-11-18T18:32:36Z",
+    "note": "codenewbie, ai, podcast",
+    "summary": "Hi friends! 👋 The CodeNewbie Podcast is back for season 28, and I’m so excited to be the one hosting..."
+   },
+   {
     "title": "What does DEV stand for?",
     "url": "https://dev.to/devengers/what-does-dev-stand-for-2kg9",
-    "score": 158,
+    "score": 160,
     "date": "2026-11-16T14:55:10Z",
     "note": "discuss, community, watercooler",
     "summary": "This post was inspired by @mellen months ago when they made a post on MLH:         What does MLH..."
+   },
+   {
+    "title": "Is Coding with AI Actually Faster and Cheaper?",
+    "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
+    "score": 117,
+    "date": "2026-11-18T08:32:45Z",
+    "note": "ai, programming, productivity",
+    "summary": "How has AI actually changed the way we work? Are coding agents really making us remarkably faster?..."
    },
    {
     "title": "Dev Opportunity Radar #25: $120K+ Atlassian Hackathon, MLH Fellowship, and INSEAD AI Founder Sprint",
@@ -259,14 +283,6 @@
     "date": "2026-11-13T18:28:11Z",
     "note": "discuss, community, opportunities",
     "summary": "TL;DR  Welcome back to Dev Opportunity Radar! 💙  This is a weekly series where I share..."
-   },
-   {
-    "title": "Is Coding with AI Actually Faster and Cheaper?",
-    "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
-    "score": 108,
-    "date": "2026-11-18T08:32:45Z",
-    "note": "ai, programming, productivity",
-    "summary": "How has AI actually changed the way we work? Are coding agents really making us remarkably faster?..."
    },
    {
     "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
@@ -279,7 +295,7 @@
    {
     "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
     "url": "https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575",
-    "score": 72,
+    "score": 75,
     "date": "2026-11-15T04:00:28Z",
     "note": "ai, webdev, hackathon",
     "summary": "A 1969 Mission Control console for kids. Built in one day for NASA Space Apps 2026.   TL;DR: For NASA..."
@@ -295,26 +311,26 @@
    {
     "title": "AI is getting better. Here is my plan to stay ahead.",
     "url": "https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822",
-    "score": 57,
+    "score": 58,
     "date": "2026-11-12T15:35:00Z",
     "note": "ai, productivity, programming",
     "summary": "AI is getting better every day.  As a software engineer, this is a topic that is often top of mind,..."
    },
    {
-    "title": "AI Avatar v28 (Security Support, Voxel Avatar)🛡️",
-    "url": "https://dev.to/webdeveloperhyper/ai-avatar-v28-security-support-voxel-avatar-2i5i",
-    "score": 65,
-    "date": "2026-11-16T04:34:39Z",
-    "note": "ai, webdev, productivity",
-    "summary": "Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its..."
-   },
-   {
     "title": "DEVengers Weekly #1: The MCP Reality Check, Career Moats, and 25 Weeks on the Radar 🚀",
     "url": "https://dev.to/devengers/devengers-weekly-1-the-mcp-reality-check-career-moats-and-25-weeks-on-the-radar-23ec",
-    "score": 61,
+    "score": 68,
     "date": "2026-11-17T14:18:20Z",
     "note": "devengers, newsletter, opensource",
     "summary": "Welcome to Issue #1 of DEVengers Weekly — our community-run digest spotlighting the developers,..."
+   },
+   {
+    "title": "AI Avatar v28 (Security Support, Voxel Avatar)🛡️",
+    "url": "https://dev.to/webdeveloperhyper/ai-avatar-v28-security-support-voxel-avatar-2i5i",
+    "score": 66,
+    "date": "2026-11-16T04:34:39Z",
+    "note": "ai, webdev, productivity",
+    "summary": "Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its..."
    },
    {
     "title": "Ultimate AI Roast! 😂😹",
@@ -327,7 +343,7 @@
    {
     "title": "25 Editions of Dev Opportunity Radar: From My Radar to Our Radar 💙 + AMA",
     "url": "https://dev.to/hemapriya_kanagala/25-editions-of-dev-opportunity-radar-from-my-radar-to-our-radar-ama-5f5",
-    "score": 66,
+    "score": 84,
     "date": "2026-11-18T15:52:31Z",
     "note": "discuss, community, ama",
     "summary": "📌 TL;DR  When I published the first edition of Dev Opportunity Radar on May 29, 2026, I had no idea..."
@@ -335,7 +351,7 @@
    {
     "title": "AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.",
     "url": "https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7",
-    "score": 46,
+    "score": 48,
     "date": "2026-11-17T15:45:44Z",
     "note": "ai, aws, devops",
     "summary": "AI agents now open pull requests on their own. I gave Amazon Nova Pro a real GitHub bug, then built a deterministic Python gate that rejects it when it cannot prove the fix. No model grades the model."
@@ -349,17 +365,9 @@
     "summary": "The thing that every dev I know is quietly worrying about is not AI taking their job. It's losing the..."
    },
    {
-    "title": "The CodeNewbie Podcast is Back for Season 28!",
-    "url": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484",
-    "score": 5,
-    "date": "2026-11-18T18:32:36Z",
-    "note": "codenewbie, ai, podcast",
-    "summary": "Hi friends! 👋 The CodeNewbie Podcast is back for season 28, and I’m so excited to be the one hosting..."
-   },
-   {
     "title": "One Year on DEV: The People Made the Platform",
     "url": "https://dev.to/hanzla/one-year-on-dev-the-people-made-the-platform-hab",
-    "score": 111,
+    "score": 112,
     "date": "2026-11-18T07:54:09Z",
     "note": "devto, discuss, writing",
     "summary": "I recently got a new badge on my DEV profile. It says One Year on DEV 🎂  I joined on 17 November..."
@@ -367,7 +375,7 @@
    {
     "title": "🐾 DEV Pet Corner #6: Show Us Your Pets!",
     "url": "https://dev.to/hemapriya_kanagala/dev-pet-corner-6-show-us-your-pets-2gd3",
-    "score": 92,
+    "score": 93,
     "date": "2026-11-15T16:29:10Z",
     "note": "discuss, community, watercooler",
     "summary": "TL;DR  DEV Pet Corner is back for another Sunday! It's a weekly series where we take a little break..."
@@ -391,7 +399,7 @@
    {
     "title": "10 Things Every Coder Has Blamed at Least Once (at Least I Have)",
     "url": "https://dev.to/canro91/10-things-every-coder-has-blamed-at-least-once-at-least-i-have-4ad0",
-    "score": 41,
+    "score": 42,
     "date": "2026-11-16T05:00:00Z",
     "note": "coding, beginners, discuss",
     "summary": "Inspired by @sylwia-lask 's post on what to blame, here are 10 things every coder has blamed, or at..."
@@ -405,12 +413,12 @@
     "summary": "AMD Token Lab is a free OpenAI-compatible API on AMD GPUs that comes with the AMD AI Developer Program. How to sign up, a local chat page that keeps the key off the browser, a terminal client, and a small ADK agent that calls Gemma 4 31B through it."
    },
    {
-    "title": "Your Agent Needs a Schema, Not a Better Prompt",
-    "url": "https://dev.to/dailycontext/your-agent-needs-a-schema-not-a-better-prompt-53bm",
-    "score": 33,
-    "date": "2026-11-11T20:51:14Z",
-    "note": "ai, agents, llm",
-    "summary": "The failure nobody demos   The agent demo always works. The customer asks for a refund, the..."
+    "title": "What are your goals for the week? #205",
+    "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-205-22pg",
+    "score": 32,
+    "date": "2026-11-16T15:16:18Z",
+    "note": "career, discuss, productivity",
+    "summary": "I have an eye doctor appointment Tuesday. If my eyes are dilated, I can't use the the computer for..."
    },
    {
     "title": "🐱 The Great Cat Party on necoz Planet! 🚀Python variable",
@@ -423,7 +431,7 @@
    {
     "title": "I built a VS Code start page for my Git repositories",
     "url": "https://dev.to/playfulprogramming/i-built-a-vs-code-start-page-for-my-git-repositories-5c6",
-    "score": 16,
+    "score": 18,
     "date": "2026-11-18T13:35:13Z",
     "note": "vscode, git, opensource",
     "summary": "Why I built Repo Board, how it shows local Git status and linked worktrees, and how to make it your VS Code start page."
@@ -437,12 +445,12 @@
     "summary": "Why attaching dozens of Model Context Protocol (MCP) tools degrades LLM reasoning, inflates API bills, and how small, focused TypeScript micro-tools fix the problem."
    },
    {
-    "title": "What are your goals for the week? #205",
-    "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-205-22pg",
-    "score": 27,
-    "date": "2026-11-16T15:16:18Z",
-    "note": "career, discuss, productivity",
-    "summary": "I have an eye doctor appointment Tuesday. If my eyes are dilated, I can't use the the computer for..."
+    "title": "Why I Rewrote type-tune from TypeScript to Rust 🦀",
+    "url": "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg",
+    "score": 51,
+    "date": "2026-11-18T17:27:52Z",
+    "note": "typescript, rust, opensource",
+    "summary": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer who loves TypeScript and gambas, not crabs! 🦐  And..."
    },
    {
     "title": "One Month After the Hackathon: Why My 4-Service App Stopped Working (and What @mansio Caught in the Verifiers)",
@@ -453,12 +461,12 @@
     "summary": "What breaks a month after a hackathon, and what a fellow DEV writer caught in the verifiers.   TL;DR:..."
    },
    {
-    "title": "Why I Rewrote type-tune from TypeScript to Rust 🦀",
-    "url": "https://dev.to/necoz/why-i-rewrote-type-tune-from-typescript-to-rust-1egg",
-    "score": 35,
-    "date": "2026-11-18T17:27:52Z",
-    "note": "typescript, rust, opensource",
-    "summary": "Hoi hoi! 👋  I'm @nyaomaru, a frontend engineer who loves TypeScript and gambas, not crabs! 🦐  And..."
+    "title": "Killed by Acronyms",
+    "url": "https://dev.to/felixcoutinho/killed-by-acronyms-33a1",
+    "score": 11,
+    "date": "2026-11-16T16:55:21Z",
+    "note": "career, development, english",
+    "summary": "Speaking the same language doesn't mean understanding each other.  If English isn't your first..."
    },
    {
     "title": "Four Applications and One Ask. Guess Which One Scared Me.",
@@ -473,7 +481,7 @@
    {
     "title": "Codeberg's domain suddenly disappeared from their account, site is unreachable",
     "url": "https://social.anoxinon.de/@Codeberg/117636454915265360",
-    "score": 155,
+    "score": 185,
     "date": "2026-11-18T02:51:09.576-06:00",
     "note": "vcs",
     "discuss": "https://lobste.rs/s/spmgsd/codeberg_s_domain_suddenly_disappeared"
@@ -481,7 +489,7 @@
    {
     "title": "nginx2root",
     "url": "https://xint.io/blog/nginx2root-remote-code-execution",
-    "score": 28,
+    "score": 63,
     "date": "2026-11-18T09:28:56.196-06:00",
     "note": "security",
     "discuss": "https://lobste.rs/s/wj2svg/nginx2root"
@@ -489,7 +497,7 @@
    {
     "title": "Java4Shell is a reason to use Java",
     "url": "https://mccue.dev/pages/11-18-26-java4shell",
-    "score": 19,
+    "score": 25,
     "date": "2026-11-18T08:21:42.798-06:00",
     "note": "java, security",
     "discuss": "https://lobste.rs/s/a1uff5/java4shell_is_reason_use_java"
@@ -497,23 +505,55 @@
    {
     "title": "Windows 11 collects data on which coding agents and dev tools you use",
     "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-    "score": 22,
+    "score": 34,
     "date": "2026-11-18T05:57:46.756-06:00",
     "note": "practices, privacy, security",
     "discuss": "https://lobste.rs/s/cwxmdw/windows_11_collects_data_on_which_coding"
    },
    {
+    "title": "Upcoming Critical PHP Security Release (18 Nov 2026)",
+    "url": "https://www.php.net/index.php#2026-11-18-1",
+    "score": 19,
+    "date": "2026-11-18T13:44:06.571-06:00",
+    "note": "php, security",
+    "discuss": "https://lobste.rs/s/zr0hkw/upcoming_critical_php_security_release"
+   },
+   {
+    "title": "How I made a custom game engine for Satelital",
+    "url": "https://spectralorbit.com/blog/satelital_game_engine",
+    "score": 26,
+    "date": "2026-11-18T10:39:00.327-06:00",
+    "note": "games, graphics",
+    "discuss": "https://lobste.rs/s/eklpkn/how_i_made_custom_game_engine_for"
+   },
+   {
     "title": "Solid 2.0",
     "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold",
-    "score": 14,
+    "score": 20,
     "date": "2026-11-18T05:21:43.807-06:00",
     "note": "javascript, web",
     "discuss": "https://lobste.rs/s/dpvrbv/solid_2_0"
    },
    {
+    "title": "The Magic of Partial Evaluation",
+    "url": "https://jimmyhmiller.com/magic-of-partial-evaluation",
+    "score": 19,
+    "date": "2026-11-18T11:30:14.649-06:00",
+    "note": "plt",
+    "discuss": "https://lobste.rs/s/silxsl/magic_partial_evaluation"
+   },
+   {
+    "title": "IPv6 delegation, an unusually subtle failure mode",
+    "url": "https://savyasacheejha.com/posts/why-odhcpd/",
+    "score": 12,
+    "date": "2026-11-18T11:52:22.985-06:00",
+    "note": "linux, networking",
+    "discuss": "https://lobste.rs/s/inj0dn/ipv6_delegation_unusually_subtle"
+   },
+   {
     "title": "Java4Shell: Write once, RCE everywhere",
     "url": "https://calif.io/java4shell/",
-    "score": 50,
+    "score": 55,
     "date": "2026-11-17T15:16:11.291-06:00",
     "note": "java, security",
     "discuss": "https://lobste.rs/s/g0bf9i/java4shell_write_once_rce_everywhere"
@@ -521,7 +561,7 @@
    {
     "title": "Actual curl rewrites in rust",
     "url": "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/",
-    "score": 107,
+    "score": 112,
     "date": "2026-11-17T07:37:05.550-06:00",
     "note": "rust",
     "discuss": "https://lobste.rs/s/1dj9w1/actual_curl_rewrites_rust"
@@ -529,66 +569,98 @@
    {
     "title": "FreeBSD GUS",
     "url": "https://gregoire.dev/writing/gus/",
-    "score": 25,
+    "score": 28,
     "date": "2026-11-17T20:54:59.376-06:00",
     "note": "freebsd, mac",
     "discuss": "https://lobste.rs/s/bhfexs/freebsd_gus"
    },
    {
-    "title": "How I made a custom game engine for Satelital",
-    "url": "https://spectralorbit.com/blog/satelital_game_engine",
-    "score": 8,
-    "date": "2026-11-18T10:39:00.327-06:00",
-    "note": "games, graphics",
-    "discuss": "https://lobste.rs/s/eklpkn/how_i_made_custom_game_engine_for"
-   },
-   {
-    "title": "IPv6 delegation, an unusually subtle failure mode",
-    "url": "https://savyasacheejha.com/posts/why-odhcpd/",
-    "score": 7,
-    "date": "2026-11-18T11:52:22.985-06:00",
-    "note": "linux, networking",
-    "discuss": "https://lobste.rs/s/inj0dn/ipv6_delegation_unusually_subtle"
-   },
-   {
-    "title": "The Magic of Partial Evaluation",
-    "url": "https://jimmyhmiller.com/magic-of-partial-evaluation",
-    "score": 5,
-    "date": "2026-11-18T11:30:14.649-06:00",
-    "note": "plt",
-    "discuss": "https://lobste.rs/s/silxsl/magic_partial_evaluation"
-   },
-   {
-    "title": "Phrack 73",
-    "url": "https://phrack.org/issues/73/introduction_md.html",
-    "score": 61,
-    "date": "2026-11-17T11:40:32.622-06:00",
-    "note": "release, security",
-    "discuss": "https://lobste.rs/s/xu4ajj/phrack_73"
-   },
-   {
     "title": "Stacked diffs with Maiao",
     "url": "https://entropicthoughts.com/stacked-diffs-with-maiao",
-    "score": 4,
+    "score": 6,
     "date": "2026-11-18T00:43:30.355-06:00",
     "note": "vcs",
     "discuss": "https://lobste.rs/s/bjmwt6/stacked_diffs_with_maiao"
    },
    {
-    "title": "Sarasa Gothic Mono",
-    "url": "https://picaq.github.io/sarasa",
-    "score": 25,
-    "date": "2026-11-17T12:47:39.099-06:00",
-    "note": "design",
-    "discuss": "https://lobste.rs/s/de02yg/sarasa_gothic_mono"
+    "title": "markdownWeb",
+    "url": "https://demo.bonbonweb.org/",
+    "score": 5,
+    "date": "2026-11-18T11:35:19.967-06:00",
+    "note": "web",
+    "discuss": "https://lobste.rs/s/w78jvi/markdownweb"
+   },
+   {
+    "title": "Stricter checks for uploaded distributions on PyPI",
+    "url": "https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/",
+    "score": 2,
+    "date": "2026-11-18T14:00:42.222-06:00",
+    "note": "python",
+    "discuss": "https://lobste.rs/s/kfpoos/stricter_checks_for_uploaded"
+   },
+   {
+    "title": "Security advisories: multiple vulnerabilities in Regexp and String case conversion",
+    "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+    "score": 2,
+    "date": "2026-11-18T19:26:37.275-06:00",
+    "note": "ruby, security",
+    "discuss": "https://lobste.rs/s/hsmtyg/security_advisories_multiple"
+   },
+   {
+    "title": "Accelerating development for massive Git repositories",
+    "url": "https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/",
+    "score": 7,
+    "date": "2026-11-18T10:00:07.744-06:00",
+    "note": "performance",
+    "discuss": "https://lobste.rs/s/0ajpus/accelerating_development_for_massive"
+   },
+   {
+    "title": "Faster CI with Orchestrated Pytest Workers",
+    "url": "https://making.close.com/posts/faster-ci-with-orchestrated-pytest-workers/",
+    "score": 5,
+    "date": "2026-11-18T12:13:35.717-06:00",
+    "note": "python, testing",
+    "discuss": "https://lobste.rs/s/3kdl1p/faster_ci_with_orchestrated_pytest"
    },
    {
     "title": "For the things we can only do together - Bonfire 1.1 Release",
     "url": "https://bonfirenetworks.org/posts/for-the-things-we-can-only-do-together/",
-    "score": 4,
+    "score": 6,
     "date": "2026-11-18T08:58:05.376-06:00",
     "note": "elixir, release",
     "discuss": "https://lobste.rs/s/4j15up/for_things_we_can_only_do_together_bonfire"
+   },
+   {
+    "title": "Phrack 73",
+    "url": "https://phrack.org/issues/73/introduction_md.html",
+    "score": 64,
+    "date": "2026-11-17T11:40:32.622-06:00",
+    "note": "release, security",
+    "discuss": "https://lobste.rs/s/xu4ajj/phrack_73"
+   },
+   {
+    "title": "Reversing the Next-Page Prefetcher in Skylake-X",
+    "url": "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",
+    "score": 3,
+    "date": "2026-11-18T15:15:49.528-06:00",
+    "note": "hardware, performance",
+    "discuss": "https://lobste.rs/s/1tcjtd/reversing_next_page_prefetcher_skylake_x"
+   },
+   {
+    "title": "sysdeck: Raycast for Linux & BSD",
+    "url": "https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/",
+    "score": 2,
+    "date": "2026-11-18T17:26:59.595-06:00",
+    "note": "freebsd, linux, netbsd, openbsd, release",
+    "discuss": "https://lobste.rs/s/l70xc9/sysdeck_raycast_for_linux_bsd"
+   },
+   {
+    "title": "Sarasa Gothic Mono",
+    "url": "https://picaq.github.io/sarasa",
+    "score": 27,
+    "date": "2026-11-17T12:47:39.099-06:00",
+    "note": "design",
+    "discuss": "https://lobste.rs/s/de02yg/sarasa_gothic_mono"
    },
    {
     "title": "Why Fibonacci?",
@@ -599,80 +671,252 @@
     "discuss": "https://lobste.rs/s/46nwql/why_fibonacci"
    },
    {
-    "title": "Accelerating development for massive Git repositories",
-    "url": "https://developers.googleblog.com/en/accelerating-development-for-massive-git-repositories/",
-    "score": 4,
-    "date": "2026-11-18T10:00:07.744-06:00",
-    "note": "performance",
-    "discuss": "https://lobste.rs/s/0ajpus/accelerating_development_for_massive"
-   },
-   {
     "title": "Steve Jobs Core Animation demo from WWDC 2007",
     "url": "https://lucas.love/100/058",
-    "score": 31,
+    "score": 33,
     "date": "2026-11-17T09:23:20.434-06:00",
     "note": "graphics, mac, video",
     "discuss": "https://lobste.rs/s/yqmfzq/steve_jobs_core_animation_demo_from_wwdc"
-   },
-   {
-    "title": "Redict is deprecated",
-    "url": "https://redict.io/posts/2026-11-17-redict-deprecated/",
-    "score": 74,
-    "date": "2026-11-17T02:20:30.125-06:00",
-    "note": "databases",
-    "discuss": "https://lobste.rs/s/z4rhlt/redict_is_deprecated"
-   },
-   {
-    "title": "Faster CI with Orchestrated Pytest Workers",
-    "url": "https://making.close.com/posts/faster-ci-with-orchestrated-pytest-workers/",
-    "score": 2,
-    "date": "2026-11-18T12:13:35.717-06:00",
-    "note": "python, testing",
-    "discuss": "https://lobste.rs/s/3kdl1p/faster_ci_with_orchestrated_pytest"
-   },
-   {
-    "title": "Context-Generic Programming (CGP) v0.8.0 - cargo-cgp, new documentation, and namespaces",
-    "url": "https://contextgeneric.dev/blog/v0.8.0-release",
-    "score": 1,
-    "date": "2026-11-18T10:08:03.758-06:00",
-    "note": "plt, programming, rust",
-    "discuss": "https://lobste.rs/s/lgdtzb/context_generic_programming_cgp_v0_8_0"
-   },
-   {
-    "title": "Github Redesign (2019)",
-    "url": "https://tonsky.me/blog/github-redesign/",
-    "score": 43,
-    "date": "2026-11-17T03:28:18.950-06:00",
-    "note": "design",
-    "discuss": "https://lobste.rs/s/kseyz1/github_redesign_2019"
-   },
-   {
-    "title": "Sexp Matrix",
-    "url": "https://lisper.cc/ideas/entangle.html",
-    "score": 14,
-    "date": "2026-11-17T15:29:57.626-06:00",
-    "note": "clojure, lisp",
-    "discuss": "https://lobste.rs/s/zqidnu/sexp_matrix"
-   },
-   {
-    "title": "How to Bypass Rust's Orphan Rule",
-    "url": "https://edvong.com/bypass-orphan-rule/",
-    "score": 16,
-    "date": "2026-11-17T09:35:36.402-06:00",
-    "note": "rust",
-    "discuss": "https://lobste.rs/s/oj87qu/how_bypass_rust_s_orphan_rule"
-   },
-   {
-    "title": "LZ-RDO lands in ARM's astc-encoder",
-    "url": "https://www.jonolick.com/home/lz-rdo-lands-in-arms-astc-encoder",
-    "score": 5,
-    "date": "2026-11-18T01:12:00.429-06:00",
-    "note": "compsci",
-    "discuss": "https://lobste.rs/s/tso5wr/lz_rdo_lands_arm_s_astc_encoder"
    }
   ],
-  "GitHub": [],
+  "GitHub": [
+   {
+    "title": "krisgfx9/Wireless-Device-Battery-Monitor",
+    "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+    "score": 3993,
+    "date": "2026-11-16T19:28:29Z",
+    "note": "C++",
+    "summary": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices."
+   },
+   {
+    "title": "erkamyaman/rust-anything",
+    "url": "https://github.com/erkamyaman/rust-anything",
+    "score": 3402,
+    "date": "2026-11-16T12:10:36Z",
+    "note": "Rust",
+    "summary": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java."
+   },
+   {
+    "title": "duwqijlk/muse-protocol",
+    "url": "https://github.com/duwqijlk/muse-protocol",
+    "score": 1628,
+    "date": "2026-11-14T01:24:58Z",
+    "note": "Python",
+    "summary": "muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现）"
+   },
+   {
+    "title": "CzzzzzzJ/mdldm-maitian",
+    "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+    "score": 1325,
+    "date": "2026-11-14T03:59:22Z",
+    "note": "JavaScript",
+    "summary": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏"
+   },
+   {
+    "title": "Hut-hzf/ung220z-tool",
+    "url": "https://github.com/Hut-hzf/ung220z-tool",
+    "score": 1240,
+    "date": "2026-11-15T11:16:46Z",
+    "note": "Python",
+    "summary": "ung220z-tool 是一个针对 UNG220Z（九联/Unionman 中国移动光猫）的一键凭据提取工具，仅限在你自己的设备上用于找回忘记的管理密码、迁移宽带配置或安全自查。"
+   },
+   {
+    "title": "sybil-solutions/inference-optimisation-skill",
+    "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+    "score": 1117,
+    "date": "2026-11-16T18:40:04Z",
+    "note": "Python",
+    "summary": "Agent skill for hill-climbing local LLM serving speed (decode, speculative decoding, prefill, KV, startup, TTFT) on any hardware and quantization"
+   },
+   {
+    "title": "haziqahmedqasmi/PeakCut",
+    "url": "https://github.com/haziqahmedqasmi/PeakCut",
+    "score": 1090,
+    "date": "2026-11-14T07:38:20Z",
+    "note": "Python",
+    "summary": "AI clipping for long videos and live streams. Self-hosted, bring your own AI key."
+   },
+   {
+    "title": "joshpuckett/allo",
+    "url": "https://github.com/joshpuckett/allo",
+    "score": 1052,
+    "date": "2026-11-15T17:33:42Z",
+    "note": "Python",
+    "summary": "Allo is your friendly neighborhood typeface, free and open source"
+   },
+   {
+    "title": "zephyr4123/snug",
+    "url": "https://github.com/zephyr4123/snug",
+    "score": 931,
+    "date": "2026-11-13T03:26:21Z",
+    "note": "Swift",
+    "summary": "为 UU远程 打造的 Mac 移动端工作区：独立竖屏、窗口自适应铺满、字号随屏放大、触控遵循 iOS 交互习惯，让 Mac 在手机上拥有原生级的操作体验。A native-grade iPhone workspace for controlling your Mac over UU Remote."
+   },
+   {
+    "title": "chuanqisun/spaceship",
+    "url": "https://github.com/chuanqisun/spaceship",
+    "score": 870,
+    "date": "2026-11-16T14:43:45Z",
+    "note": "HTML",
+    "summary": "Steer your ideas in realtime"
+   },
+   {
+    "title": "opencoredev/islandcn",
+    "url": "https://github.com/opencoredev/islandcn",
+    "score": 810,
+    "date": "2026-11-13T11:50:50Z",
+    "note": "TypeScript",
+    "summary": "The open-source Dynamic Island for React, installed with shadcn."
+   },
+   {
+    "title": "n4ze3m/tiny-voca",
+    "url": "https://github.com/n4ze3m/tiny-voca",
+    "score": 747,
+    "date": "2026-11-14T16:02:56Z",
+    "note": "Python",
+    "summary": "A 4.5M-parameter two-voice English text-to-speech model, trained from scratch"
+   },
+   {
+    "title": "yetanotherbrowser/yab",
+    "url": "https://github.com/yetanotherbrowser/yab",
+    "score": 721,
+    "date": "2026-11-14T23:56:32Z",
+    "note": "Swift",
+    "summary": "Yab, yet another browser: a fast native macOS browser with an iPhone and Android companion"
+   },
+   {
+    "title": "mit-han-lab/pear",
+    "url": "https://github.com/mit-han-lab/pear",
+    "score": 677,
+    "date": "2026-11-13T17:43:06Z",
+    "note": "Python",
+    "summary": "Training Reasoning Models in Simulation to Natively Use Real Robots"
+   },
+   {
+    "title": "boringmarketer/boring-marketing-skills",
+    "url": "https://github.com/boringmarketer/boring-marketing-skills",
+    "score": 662,
+    "date": "2026-11-16T15:09:46Z",
+    "note": "Python",
+    "summary": "32 free marketing skills for your AI agent: research, positioning, copy, pages, SEO, AI search, ads, email and content, plus a deep local-business pack. MIT."
+   },
+   {
+    "title": "Illson/RustText",
+    "url": "https://github.com/Illson/RustText",
+    "score": 615,
+    "date": "2026-11-16T17:46:45Z",
+    "note": "Rust",
+    "summary": null
+   },
+   {
+    "title": "faizfahmi77/ScanDot",
+    "url": "https://github.com/faizfahmi77/ScanDot",
+    "score": 545,
+    "date": "2026-11-13T04:07:57Z",
+    "note": "Kotlin",
+    "summary": "Experimental Android 3D scanning and point-cloud viewer"
+   },
+   {
+    "title": "siliconjungle/shapeshift-labs-ink-studio",
+    "url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
+    "score": 542,
+    "date": "2026-11-16T07:44:00Z",
+    "note": "JavaScript",
+    "summary": "Sculpting, animation and simulation toolkit for pixel-art Gaussian splats"
+   },
+   {
+    "title": "quer3q/kraken-mount",
+    "url": "https://github.com/quer3q/kraken-mount",
+    "score": 520,
+    "date": "2026-11-13T07:25:37Z",
+    "note": "Rust",
+    "summary": "Minimalist PS5 game mounter supporting PKG, folder dumps, zstd and lz4"
+   },
+   {
+    "title": "YellowLaborerMarket/Gemini-Config-Checker-",
+    "url": "https://github.com/YellowLaborerMarket/Gemini-Config-Checker-",
+    "score": 475,
+    "date": "2026-11-15T16:48:18Z",
+    "note": "Makefile",
+    "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+   },
+   {
+    "title": "WindGatorRise37/Gemini-Config-Checker-",
+    "url": "https://github.com/WindGatorRise37/Gemini-Config-Checker-",
+    "score": 473,
+    "date": "2026-11-15T16:47:17Z",
+    "note": "Makefile",
+    "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+   },
+   {
+    "title": "WyrmClimberManacle/Gemini-Config-Checker-",
+    "url": "https://github.com/WyrmClimberManacle/Gemini-Config-Checker-",
+    "score": 473,
+    "date": "2026-11-15T16:48:18Z",
+    "note": "Makefile",
+    "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+   },
+   {
+    "title": "TurtleReside/Gemini-Config-Checker-",
+    "url": "https://github.com/TurtleReside/Gemini-Config-Checker-",
+    "score": 473,
+    "date": "2026-11-15T16:46:04Z",
+    "note": "Go",
+    "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+   },
+   {
+    "title": "weldbladesmithwharf/Gemini-Config-Checker-",
+    "url": "https://github.com/weldbladesmithwharf/Gemini-Config-Checker-",
+    "score": 473,
+    "date": "2026-11-15T16:47:11Z",
+    "note": "Makefile",
+    "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+   },
+   {
+    "title": "WindowStaffGate11/Gemini-Config-Checker-",
+    "url": "https://github.com/WindowStaffGate11/Gemini-Config-Checker-",
+    "score": 473,
+    "date": "2026-11-15T16:47:18Z",
+    "note": "Makefile",
+    "summary": "Chain region scanner: find proxy configs that get you into Google AI Studio and Gemini (signed-in browser check, anti-DPI, Windows/macOS/Linux/Android) "
+   }
+  ],
   "Hugging Face": [
+   {
+    "title": "MInfoVisQA: A Multilingual Benchmark for Information-Rich Visual Question Answering",
+    "url": "https://huggingface.co/papers/2611.21644",
+    "score": 1,
+    "date": "2026-10-14T00:00:00.000Z",
+    "summary": "Multimodal large language models (MLLMs) excel in vision-language tasks; yet, whether they maintain consistent understanding of information-rich visuals (InfoVis) when the surface language changes remains unclear. To quantify this capability, we introduce MInfoVisQA, a parallel b"
+   },
+   {
+    "title": "Attention at Absolute Zero",
+    "url": "https://huggingface.co/papers/2611.11937",
+    "score": 2,
+    "date": "2026-11-17T00:00:00.000Z",
+    "summary": "Attention scores candidate supports of an answer, which we call witnesses, and reads the scores at a temperature. We build a higher-order attention layer whose state lives on pairs of items: for a pair (a, b), each third item k is a witness judged through its legs (a, k) and (k, "
+   },
+   {
+    "title": "CONGA: Compiling Gaussian Fiber Geometry for Structured Bayesian Inference",
+    "url": "https://huggingface.co/papers/2611.20995",
+    "score": 1,
+    "date": "2026-11-16T00:00:00.000Z",
+    "summary": "In structured Bayesian models, a large latent block is often Gaussian conditional on a smaller set of parameters, yet generic inference methods relearn this geometry during warmup. We study how this structure can be used to construct transports for posterior inference. The condit"
+   },
+   {
+    "title": "The novelty exposed: ablation, reproducibility and transparency in 40 technical reports of open-weight large language models (LLMs)",
+    "url": "https://huggingface.co/papers/2611.20003",
+    "score": 2,
+    "date": "2026-11-15T00:00:00.000Z",
+    "summary": "In 2025 alone, 48 new large language model (LLM) architectures were added to the Hugging Face transformers library, and many of them arrive with a technical report that presents the model as new. What is actually new in these models, and is it tested? We put this question to LLM "
+   },
+   {
+    "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
+    "url": "https://huggingface.co/papers/2611.18553",
+    "score": 2,
+    "date": "2026-11-13T00:00:00.000Z",
+    "summary": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks from scratch, all without gradient descent. This capability ha"
+   },
    {
     "title": "Unreasonable Confidence from Simulator Misspecification: Directional Robustness on the SPEED+ Sim-to-Real Benchmark",
     "url": "https://huggingface.co/papers/2611.20321",
@@ -690,14 +934,14 @@
    {
     "title": "DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding",
     "url": "https://huggingface.co/papers/2611.21925",
-    "score": 2,
+    "score": 4,
     "date": "2026-11-16T00:00:00.000Z",
     "summary": "Speculative-diffusion decoding uses a small parallel drafter model to generate b draft tokens in one forward pass, which then undergo parallel verification via a larger target model. Faster inference can be achieved when multiple draft tokens pass verification simultaneously. Rec"
    },
    {
     "title": "HubEgo-100K: In-the-Wild Egocentric Video of Skilled Work for Robot Learning",
     "url": "https://huggingface.co/papers/2611.21938",
-    "score": 3,
+    "score": 4,
     "date": "2026-11-16T00:00:00.000Z",
     "summary": "Robot policies trained by imitation generalize poorly outside the environments and objects seen in training. Published data-scaling studies find that generalization grows with the diversity of training environments and objects rather than with more demonstrations per environment."
    },
@@ -718,14 +962,14 @@
    {
     "title": "VisualArtifactSpec 1.0: Evaluating Visual Artifacts under Task Specifications",
     "url": "https://huggingface.co/papers/2611.21382",
-    "score": 5,
+    "score": 6,
     "date": "2026-11-16T00:00:00.000Z",
     "summary": "Visual artifact tasks test agents' ability to translate task specifications and source materials into outputs that meet practical needs. Evaluation across artifact families helps distinguish broadly applicable authoring capabilities from strengths confined to a particular medium."
    },
    {
     "title": "AuXSpec: Learning to Autoformalize Program Specifications via Executable Postconditions",
     "url": "https://huggingface.co/papers/2611.21421",
-    "score": 2,
+    "score": 3,
     "date": "2026-11-16T00:00:00.000Z",
     "summary": "Formal specifications define intended program behavior and underpin verification, but writing them in theorem provers such as Lean is slow and expertise-intensive, making specification a major bottleneck to scaling formally correct code. Autoformalization from natural-language pr"
    },
@@ -739,7 +983,7 @@
    {
     "title": "Beyond Answering: Learning to Speak First and Act in Streaming Video",
     "url": "https://huggingface.co/papers/2611.17048",
-    "score": 33,
+    "score": 34,
     "date": "2026-11-15T00:00:00.000Z",
     "summary": "Most AI assistants respond only when prompted, remaining silent even when events in the video stream offer meaningful opportunities for conversation. To move beyond purely user-driven interaction, we present AURA 2.0, a streaming video large language model that introduces three c"
    },
@@ -753,7 +997,7 @@
    {
     "title": "VideoNexus: Video Perception Beyond the Reasoning Context",
     "url": "https://huggingface.co/papers/2611.21392",
-    "score": 18,
+    "score": 19,
     "date": "2026-11-16T00:00:00.000Z",
     "summary": "Understanding long videos requires locating evidence, resolving visual details, and integrating observations into an answer. Even when relevant evidence is present, performing these operations within long, dense visual sequences burdens both perception and reasoning. Video agents"
    },
@@ -767,51 +1011,16 @@
    {
     "title": "TPHC: Improving Hyper-Connections with Tensor-Parallel Grouped Updates",
     "url": "https://huggingface.co/papers/2611.23026",
-    "score": 1,
+    "score": 2,
     "date": "2026-11-17T00:00:00.000Z",
     "summary": "Hyper-Connections (HC) expand the residual stream of a Transformer into N parallel streams, and manifold-constrained HC (mHC) stabilizes them at scale. However, mHC benefits little from more than four streams, partly because each sublayer writes a single output to all streams, li"
    },
    {
     "title": "From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop",
     "url": "https://huggingface.co/papers/2611.21152",
-    "score": 10,
+    "score": 12,
     "date": "2026-11-17T00:00:00.000Z",
     "summary": "Training coding agents for long-horizon tasks requires environments with verifiable feedback. Existing pipelines often follow a linear process that ends with validation, establishing usability but providing little guidance on improving training value. Recursive self-improvement ("
-   },
-   {
-    "title": "FMT: Lossless Image Compression in a Fixed Number of Parallel Steps",
-    "url": "https://huggingface.co/papers/2611.23108",
-    "score": 10,
-    "date": "2026-11-17T00:00:00.000Z",
-    "summary": "Learned lossless codecs make smaller files than common classical codecs, yet the images we archive and train on still use classical codecs. A main reason is time: a learned codec takes seconds to decode a photo that a classical codec opens in milliseconds, and their faster varian"
-   },
-   {
-    "title": "Glyph: An Interpretability Engine for AI-Driven Scientific Discovery in Clinical Data",
-    "url": "https://huggingface.co/papers/2611.08922",
-    "score": 3,
-    "date": "2026-11-06T00:00:00.000Z",
-    "summary": "Automated scientific discovery has the potential to advance understanding of disease mechanisms and accelerate identification of early disease markers. Manual data annotation is infeasible at population scale, motivating methods that automatically extract pre-defined phenotypes i"
-   },
-   {
-    "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
-    "url": "https://huggingface.co/papers/2611.17621",
-    "score": 91,
-    "date": "2026-11-13T00:00:00.000Z",
-    "summary": "Kernel optimization is essential for efficient large language model (LLM) training and inference on Ascend NPUs. Existing Ascend kernel benchmarks primarily focus on kernel generation, with less emphasis on the ability of agents to optimize existing implementations under input co"
-   },
-   {
-    "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
-    "url": "https://huggingface.co/papers/2611.22115",
-    "score": 149,
-    "date": "2026-11-17T00:00:00.000Z",
-    "summary": "We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning archite"
-   },
-   {
-    "title": "FastFrames: Video Generation at Interactive Latency",
-    "url": "https://huggingface.co/papers/2611.23226",
-    "score": 20,
-    "date": "2026-11-17T00:00:00.000Z",
-    "summary": "Autoregressive video diffusion models generate frames based on new observations and inputs, making them a promising medium for interactive visual experiences. However, existing models are orders of magnitude too slow for fluid interaction. This paper introduces FastFrames, a fami"
    }
   ]
  }
